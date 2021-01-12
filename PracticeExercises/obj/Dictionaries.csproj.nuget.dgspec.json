@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {}
+    "C:\\Users\\LCStudent\\code\\CSharp\\PracticeExercises\\Dictionaries.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj": {
+    "C:\\Users\\LCStudent\\code\\CSharp\\PracticeExercises\\Dictionaries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
+        "projectUniqueName": "C:\\Users\\LCStudent\\code\\CSharp\\PracticeExercises\\Dictionaries.csproj",
         "projectName": "Dictionaries",
-        "projectPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\Dictionaries.csproj",
-        "packagesPath": "C:\\Users\\Gypsy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\PracticeExercises\\obj\\",
+        "projectPath": "C:\\Users\\LCStudent\\code\\CSharp\\PracticeExercises\\Dictionaries.csproj",
+        "packagesPath": "C:\\Users\\LCStudent\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LCStudent\\code\\CSharp\\PracticeExercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gypsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LCStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Gypsy\\.nuget\\packages\\": {}
+    "C:\\Users\\LCStudent\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
+      "projectUniqueName": "C:\\Users\\LCStudent\\code\\CSharp\\Lists\\Lists.csproj",
       "projectName": "Lists",
-      "projectPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\Lists.csproj",
-      "packagesPath": "C:\\Users\\Gypsy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gypsy\\lc101\\CC2020-C#\\Exercises\\PracticeExercises\\Lists\\obj\\",
+      "projectPath": "C:\\Users\\LCStudent\\code\\CSharp\\Lists\\Lists.csproj",
+      "packagesPath": "C:\\Users\\LCStudent\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LCStudent\\code\\CSharp\\Lists\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Gypsy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LCStudent\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
