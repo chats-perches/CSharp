@@ -337,4 +337,7 @@ ASALocalRun/
 .localhistory/
 
 # BeatPulse healthcheck temp database
-healthchecksdb
+healthchecksdb.vs/PracticeExercises/v16/.suo
+PracticeExercises/obj/Debug/netcoreapp3.1/Dictionaries.csprojAssemblyReference.cache
+PracticeExercises/obj/Debug
+PracticeExercises/obj/Debug PracticeExercises/obj/Dictionaries.csproj.nuget.cache PracticeExercises/obj/Dictionaries.csproj.nuget.dgspec.json PracticeExercises/obj/Dictionaries.csproj.nuget.g.props PracticeExercises/obj/Dictionaries.csproj.nuget.g.targets PracticeExercises/obj/PracticeExercises.csproj.nuget.cache PracticeExercises/obj/PracticeExercises.csproj.nuget.dgspec.json PracticeExercises/obj/PracticeExercises.csproj.nuget.g.props PracticeExercises/obj/PracticeExercises.csproj.nuget.g.targets PracticeExercises/obj/project.assets.json PracticeExercises/obj/project.nuget.cache PracticeExercises/obj/Release
